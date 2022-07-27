@@ -1,0 +1,4 @@
+.tododone {
+  color: var(--secondary);
+  text-decoration: line-through;
+}
